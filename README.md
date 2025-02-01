@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**moccagod/moccagod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **[Azmi Nailal Hadi](https://github.com/moccagod)**, a passionate developer from Indonesia.
 
-Here are some ideas to get you started:
+🌱 **Currently learning**: React JS.  
+💬 **Ask me about**: Web Development.  
+⚡ **Fun fact**: Looking For Internship.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Languages-Frameworks-Tools
+![HTML5](https://img.shields.io/badge/-HTML5-orange?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-blue?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white)
+![React](https://img.shields.io/badge/-React-blue?logo=react&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white)
+
+## 📫 Connect with me:
+- [Gmail](mailto:azminailalhadi28@gmail.com)
+- [LinkedIn](https://linkedin.com/in/azminailalhadi)
+- [Instagram](https://instagram.com/azminailalhadi)
